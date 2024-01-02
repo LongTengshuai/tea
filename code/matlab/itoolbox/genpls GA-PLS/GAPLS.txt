@@ -1,0 +1,11 @@
+[b,fin,sel]=gapls(dataset,evaluat)%dataset为需要优选的数据集，evaluat为处理次数一般为3
+Xtrq=[];%提取训练集中得到的变量 # of variables used
+for i=1:59   %59为得到最佳RMSCEV时的变量数
+x=Xtr(:,b(i));%Xtr为训练集
+Xtrq=[Xtrq,x];
+end
+Xteq=[];
+for i=1:59
+x=Xte(:,b(i));
+Xteq=[Xteq,x];
+end

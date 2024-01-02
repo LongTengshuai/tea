@@ -1,0 +1,10 @@
+The milk dataset consists of 67 milk samples, acquired directly from the local market in Changsha, China. The samples were measured using an Antaris ¢ò FT-NIR spectrometer (Thermo Fisher, USA) in transflective mode. Each spectrum consisted in an average of 32 scans at intervals of 4 cm-1 within the wavenumbers range 10000-4000 cm-1. 
+The protein of milk was considered as the property of interest. 
+
+Protein content was determined by Kjeldahl method as described by GB/T 5413.1-1997 (National Standards of P.R. China) and the factor 6.38 was used to convert the nitrogen values to protein. Rose-Gottlieb and Kjeldahl are the reference method for measuring the content of the property of interest. 
+
+Of note, 5 outliers were detected based on the Monte-Carlo outlier detection approach£¬which are 4th, 17th, 19th, 29th and 45th.
+
+Remember to cite the corresponding paper when using this dataset.
+
+Futher conmunication in Email: yunyonghuan@gmail.com

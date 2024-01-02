@@ -1,0 +1,3 @@
+1. "D1.py","D2.py","SNV.py","SG.py","MSC.py" were used for hyperspectral data preprocessing.
+
+2. "CARS.py","SPA.py were used to select feature wavelengths.
